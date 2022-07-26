@@ -1,6 +1,6 @@
 # bytebank
 
-A new Bytebank project.
+Um novo projeto Flutter para a prática de programação reativa com Bloc 
 
 ## Getting Started
 
